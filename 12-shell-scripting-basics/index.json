@@ -1,0 +1,21 @@
+{
+  "title": "Lab 12: Shell Scripting Basics",
+  "description": "Write small shell scripts using variables, conditionals, loops, and exit codes.",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "Hands-on Tasks",
+        "text": "lab.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Lab 05: File Permissions and Ownership",
+  "description": "Understand Linux access control with chmod, chown, chgrp, umask, and special bits.",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "Hands-on Tasks",
+        "text": "lab.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}

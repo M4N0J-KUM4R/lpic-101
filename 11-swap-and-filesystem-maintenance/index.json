@@ -1,0 +1,21 @@
+{
+  "title": "Lab 11: Swap and Filesystem Maintenance",
+  "description": "Inspect disk usage, swap, links, and filesystem-maintenance concepts.",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "Hands-on Tasks",
+        "text": "lab.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Lab 07: Package Management",
+  "description": "Practice common package-management workflows on Debian-style and RPM-style systems.",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "Hands-on Tasks",
+        "text": "lab.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}

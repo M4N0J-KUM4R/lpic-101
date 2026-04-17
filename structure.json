@@ -1,0 +1,18 @@
+{
+  "title": "LPIC-101 Labs",
+  "description": "Hands-on Linux practice labs for LPIC-101 on Killercoda.",
+  "items": [
+    { "path": "01-environment-and-shell-basics" },
+    { "path": "02-files-and-directories" },
+    { "path": "03-text-processing-essentials" },
+    { "path": "04-archive-and-compression" },
+    { "path": "05-file-permissions-and-ownership" },
+    { "path": "06-process-management" },
+    { "path": "07-package-management" },
+    { "path": "08-boot-process-and-systemd" },
+    { "path": "09-hardware-and-system-architecture" },
+    { "path": "10-partitions-and-filesystems" },
+    { "path": "11-swap-and-filesystem-maintenance" },
+    { "path": "12-shell-scripting-basics" }
+  ]
+}

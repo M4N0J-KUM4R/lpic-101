@@ -1,0 +1,21 @@
+{
+  "title": "Lab 03: Text Processing Essentials",
+  "description": "Use pipes, filters, and redirection to extract useful information from text.",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "Hands-on Tasks",
+        "text": "lab.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}

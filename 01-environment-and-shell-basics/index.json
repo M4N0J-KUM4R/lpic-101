@@ -1,0 +1,21 @@
+{
+  "title": "Lab 01: Environment and Shell Basics",
+  "description": "Build confidence with navigation, help systems, shell history, and user context.",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "Hands-on Tasks",
+        "text": "lab.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}

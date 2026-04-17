@@ -1,0 +1,21 @@
+{
+  "title": "Lab 08: Boot Process and systemd",
+  "description": "Inspect boot targets, services, unit files, and system logs with systemd tools.",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "Hands-on Tasks",
+        "text": "lab.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}

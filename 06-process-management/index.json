@@ -1,0 +1,21 @@
+{
+  "title": "Lab 06: Process Management",
+  "description": "Inspect, control, and prioritize running processes from the shell.",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "Hands-on Tasks",
+        "text": "lab.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}

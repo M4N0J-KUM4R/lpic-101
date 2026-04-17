@@ -1,0 +1,21 @@
+{
+  "title": "Lab 04: Archive and Compression",
+  "description": "Package, compress, inspect, and extract files in common Linux archive formats.",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "Hands-on Tasks",
+        "text": "lab.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}

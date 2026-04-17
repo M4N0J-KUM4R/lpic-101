@@ -1,0 +1,21 @@
+{
+  "title": "Lab 02: Files and Directories",
+  "description": "Create, copy, move, delete, inspect, and search for files and directories.",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "Hands-on Tasks",
+        "text": "lab.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}

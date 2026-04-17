@@ -1,0 +1,21 @@
+{
+  "title": "Lab 10: Partitions and Filesystems",
+  "description": "Explore partitioning, filesystem creation, mounting, and persistent mount configuration.",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "Hands-on Tasks",
+        "text": "lab.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}

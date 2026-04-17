@@ -1,0 +1,21 @@
+{
+  "title": "Lab 09: Hardware and System Architecture",
+  "description": "Inspect CPU, memory, kernel, modules, and devices from the command line.",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "Hands-on Tasks",
+        "text": "lab.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
