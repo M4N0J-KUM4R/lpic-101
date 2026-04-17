@@ -1,11 +1,19 @@
-# Environment and Shell Basics
+# Lab 01: Environment and Shell Basics
 
-## Objective
+## Story Mode
 
-Get comfortable with the Linux shell and the basic commands used in almost every LPIC-101 task.
+You are a new junior Linux operator at `Northwind Systems`. Your team lead has given you access to a shared support box, but before you can help with live systems, you must complete a short onboarding drill in the terminal.
 
-## Scenario
+Each task in this lab comes from a realistic company request:
 
-You just logged into a Linux server for the first time and need to inspect your environment before doing admin work.
+- confirm your identity and shell environment
+- inspect a handoff workspace
+- move between directories without getting lost
+- look up commands instead of guessing
+- capture a short session handoff for the next teammate
 
-Move to the next step and complete the tasks in the terminal.
+## Workspace
+
+Use `/tmp/lpic101/lab01` as your working area for this lab. The setup script prepares it for you.
+
+Move step by step. Each step has a verification check, so treat it like a guided practical rather than a worksheet.

@@ -1,14 +1,26 @@
 {
   "title": "Lab 12: Shell Scripting Basics",
-  "description": "Write small shell scripts using variables, conditionals, loops, and exit codes.",
+  "description": "Turn repetitive command sequences into a small, testable shell script.",
   "details": {
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "background": "setup.sh"
     },
     "steps": [
       {
-        "title": "Hands-on Tasks",
-        "text": "lab.md"
+        "title": "Step 1: Create a Script Skeleton",
+        "text": "step1/text.md",
+        "verify": "step1/verify.sh"
+      },
+      {
+        "title": "Step 2: Add a File Check",
+        "text": "step2/text.md",
+        "verify": "step2/verify.sh"
+      },
+      {
+        "title": "Step 3: Add a Report Mode",
+        "text": "step3/text.md",
+        "verify": "step3/verify.sh"
       }
     ],
     "finish": {

@@ -1,9 +1,11 @@
-# File Permissions and Ownership
+# Lab 05: File Permissions and Ownership
 
-## Objective
+## Story Mode
 
-Work through permission models and ownership changes so access behavior feels predictable.
+Your team needs a shared project area, but different files should allow different levels of access.
 
-## Scenario
+## Workspace
 
-You need to secure a project directory so only the right users and groups can read or modify files.
+Use `/tmp/lpic101/lab05` as your working area for this lab. The setup script prepares it for you.
+
+Move step by step. Each step has a verification check, so treat it like a guided practical rather than a worksheet.

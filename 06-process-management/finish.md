@@ -1,5 +1,7 @@
 # Lab Complete
 
-You now have a practical process-control toolkit: find it, inspect it, background it, foreground it, and stop it.
+You practiced the lifecycle of a process instead of just memorizing commands: launch, identify, stop, and keep alive when needed.
 
-That’s a core operational skill and an important LPIC-101 topic.
+## Next Habit To Keep
+
+Before moving on, repeat the commands from memory once. Story mode works best when you combine guided practice with recall.

@@ -1,14 +1,26 @@
 {
   "title": "Lab 05: File Permissions and Ownership",
-  "description": "Understand Linux access control with chmod, chown, chgrp, umask, and special bits.",
+  "description": "Make access behavior deliberate by setting modes on files and directories.",
   "details": {
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "background": "setup.sh"
     },
     "steps": [
       {
-        "title": "Hands-on Tasks",
-        "text": "lab.md"
+        "title": "Step 1: Protect a Sensitive File",
+        "text": "step1/text.md",
+        "verify": "step1/verify.sh"
+      },
+      {
+        "title": "Step 2: Make a Script Executable",
+        "text": "step2/text.md",
+        "verify": "step2/verify.sh"
+      },
+      {
+        "title": "Step 3: Prepare a Shared Directory",
+        "text": "step3/text.md",
+        "verify": "step3/verify.sh"
       }
     ],
     "finish": {

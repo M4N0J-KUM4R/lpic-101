@@ -1,9 +1,11 @@
-# Process Management
+# Lab 06: Process Management
 
-## Objective
+## Story Mode
 
-Learn how to inspect active processes and control foreground, background, and terminated jobs.
+A lightweight service keeps appearing and disappearing on a test box. You need to prove you can manage its lifecycle intentionally.
 
-## Scenario
+## Workspace
 
-An application is misbehaving and you need to identify it, pause it, resume it, and stop it cleanly.
+Use `/tmp/lpic101/lab06` as your working area for this lab. The setup script prepares it for you.
+
+Move step by step. Each step has a verification check, so treat it like a guided practical rather than a worksheet.

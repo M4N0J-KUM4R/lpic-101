@@ -1,14 +1,26 @@
 {
   "title": "Lab 06: Process Management",
-  "description": "Inspect, control, and prioritize running processes from the shell.",
+  "description": "Start, observe, stop, and persist processes with practical shell-based process control.",
   "details": {
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "background": "setup.sh"
     },
     "steps": [
       {
-        "title": "Hands-on Tasks",
-        "text": "lab.md"
+        "title": "Step 1: Launch and Record a Background Job",
+        "text": "step1/text.md",
+        "verify": "step1/verify.sh"
+      },
+      {
+        "title": "Step 2: Stop the Process Cleanly",
+        "text": "step2/text.md",
+        "verify": "step2/verify.sh"
+      },
+      {
+        "title": "Step 3: Keep a Job Running With Nohup",
+        "text": "step3/text.md",
+        "verify": "step3/verify.sh"
       }
     ],
     "finish": {

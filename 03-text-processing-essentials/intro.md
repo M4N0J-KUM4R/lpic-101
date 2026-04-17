@@ -1,9 +1,11 @@
-# Text Processing Essentials
+# Lab 03: Text Processing Essentials
 
-## Objective
+## Story Mode
 
-Learn how to combine classic Unix tools to filter, count, sort, and transform text.
+You received a user inventory file and need to turn it into useful summaries for the team.
 
-## Scenario
+## Workspace
 
-You were handed log-style text and need to extract quick insights from it in the terminal.
+Use `/tmp/lpic101/lab03` as your working area for this lab. The setup script prepares it for you.
+
+Move step by step. Each step has a verification check, so treat it like a guided practical rather than a worksheet.

@@ -1,14 +1,26 @@
 {
   "title": "Lab 03: Text Processing Essentials",
-  "description": "Use pipes, filters, and redirection to extract useful information from text.",
+  "description": "Extract value from structured text using the classic Unix toolchain.",
   "details": {
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "background": "setup.sh"
     },
     "steps": [
       {
-        "title": "Hands-on Tasks",
-        "text": "lab.md"
+        "title": "Step 1: Extract Usernames",
+        "text": "step1/text.md",
+        "verify": "step1/verify.sh"
+      },
+      {
+        "title": "Step 2: Filter for Bash Users",
+        "text": "step2/text.md",
+        "verify": "step2/verify.sh"
+      },
+      {
+        "title": "Step 3: Transform the Delimiter",
+        "text": "step3/text.md",
+        "verify": "step3/verify.sh"
       }
     ],
     "finish": {

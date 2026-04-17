@@ -1,9 +1,11 @@
-# Archive and Compression
+# Lab 04: Archive and Compression
 
-## Objective
+## Story Mode
 
-Practice creating and extracting archives with the formats commonly referenced in LPIC-101.
+A project directory needs to be archived before a handoff. You need to preserve structure and reduce size without losing visibility into the contents.
 
-## Scenario
+## Workspace
 
-A teammate asked you to bundle project data, reduce its size, and verify the contents before sharing it.
+Use `/tmp/lpic101/lab04` as your working area for this lab. The setup script prepares it for you.
+
+Move step by step. Each step has a verification check, so treat it like a guided practical rather than a worksheet.

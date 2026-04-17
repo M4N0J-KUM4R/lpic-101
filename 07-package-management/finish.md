@@ -1,5 +1,7 @@
 # Lab Complete
 
-You’ve worked through the exam objective that often trips people up: knowing which package command belongs to which distro family.
+You stayed on the safe side of package management while still learning the most important instincts: identify the distro family and query the database correctly.
 
-If you can explain `apt` versus `dpkg` and `dnf` versus `rpm`, you’re in good shape here.
+## Next Habit To Keep
+
+Before moving on, repeat the commands from memory once. Story mode works best when you combine guided practice with recall.

@@ -1,14 +1,26 @@
 {
   "title": "Lab 11: Swap and Filesystem Maintenance",
-  "description": "Inspect disk usage, swap, links, and filesystem-maintenance concepts.",
+  "description": "Investigate space, inodes, links, and swap like a troubleshooting Linux admin.",
   "details": {
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "background": "setup.sh"
     },
     "steps": [
       {
-        "title": "Hands-on Tasks",
-        "text": "lab.md"
+        "title": "Step 1: Inspect Capacity and Inodes",
+        "text": "step1/text.md",
+        "verify": "step1/verify.sh"
+      },
+      {
+        "title": "Step 2: Compare Hard and Symbolic Links",
+        "text": "step2/text.md",
+        "verify": "step2/verify.sh"
+      },
+      {
+        "title": "Step 3: Report Swap State",
+        "text": "step3/text.md",
+        "verify": "step3/verify.sh"
       }
     ],
     "finish": {

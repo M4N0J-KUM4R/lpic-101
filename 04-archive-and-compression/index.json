@@ -1,14 +1,26 @@
 {
   "title": "Lab 04: Archive and Compression",
-  "description": "Package, compress, inspect, and extract files in common Linux archive formats.",
+  "description": "Pack, inspect, compress, and extract files the way admins do in daily Linux work.",
   "details": {
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "background": "setup.sh"
     },
     "steps": [
       {
-        "title": "Hands-on Tasks",
-        "text": "lab.md"
+        "title": "Step 1: Create and Inspect a Tar Archive",
+        "text": "step1/text.md",
+        "verify": "step1/verify.sh"
+      },
+      {
+        "title": "Step 2: Create a Compressed Archive",
+        "text": "step2/text.md",
+        "verify": "step2/verify.sh"
+      },
+      {
+        "title": "Step 3: Extract and Confirm",
+        "text": "step3/text.md",
+        "verify": "step3/verify.sh"
       }
     ],
     "finish": {

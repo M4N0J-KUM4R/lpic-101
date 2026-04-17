@@ -1,5 +1,7 @@
 # Lab Complete
 
-You’ve covered the Linux file lifecycle: create, inspect, link, search, move, and remove.
+You practiced the real file-management workflow: create, copy, move, rename, link, and inspect. That sequence turns messy data into a maintainable filesystem layout.
 
-That foundation will make the next text-processing labs much smoother.
+## Next Habit To Keep
+
+Before moving on, repeat the commands from memory once. Story mode works best when you combine guided practice with recall.

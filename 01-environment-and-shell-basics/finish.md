@@ -1,10 +1,7 @@
 # Lab Complete
 
-You practiced the core shell navigation and discovery commands that show up throughout LPIC-101.
+You completed your first-day terminal onboarding at `Northwind Systems`. You proved that you can identify your user context, inspect a workspace, move safely through directories, look up unfamiliar commands, and leave behind a usable handoff note.
 
-Before moving on, make sure you can:
+## Next Habit To Keep
 
-- navigate with confidence
-- use help systems quickly
-- identify your shell and user context
-- read command history
+Before moving on, repeat the commands from memory once. Story mode works best when you combine guided practice with recall.

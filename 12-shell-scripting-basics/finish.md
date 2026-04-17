@@ -1,5 +1,7 @@
 # Lab Complete
 
-You finished the LPIC-101 lab set with shell scripting, which ties together many earlier topics.
+You turned repeated shell work into a script with modes, conditionals, and a loop. That is a great final bridge from basic commands into automation.
 
-If you want to deepen this course next, the best upgrade is adding `setup.sh` and `verify.sh` files to turn each lab into a fully validated exercise flow.
+## Next Habit To Keep
+
+Before moving on, repeat the commands from memory once. Story mode works best when you combine guided practice with recall.

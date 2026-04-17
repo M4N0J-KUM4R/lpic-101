@@ -1,9 +1,11 @@
-# Boot Process and systemd
+# Lab 08: Boot Process and systemd
 
-## Objective
+## Story Mode
 
-Inspect how a Linux system boots and how services are managed once the system is running.
+You were asked to inspect service management on a Linux environment that might be a full host or a lightweight container. Your job is to observe, not assume.
 
-## Scenario
+## Workspace
 
-A service failed after boot and you need to inspect unit state, logs, and target configuration.
+Use `/tmp/lpic101/lab08` as your working area for this lab. The setup script prepares it for you.
+
+Move step by step. Each step has a verification check, so treat it like a guided practical rather than a worksheet.

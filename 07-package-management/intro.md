@@ -1,9 +1,11 @@
-# Package Management
+# Lab 07: Package Management
 
-## Objective
+## Story Mode
 
-Learn the package-query, install, update, and removal workflows expected for LPIC-101.
+You are not allowed to make reckless package changes on a shared machine, but you still need to prove you understand the local package system.
 
-## Scenario
+## Workspace
 
-You need to confirm what package tools exist on the system and use the correct command set for the distribution.
+Use `/tmp/lpic101/lab07` as your working area for this lab. The setup script prepares it for you.
+
+Move step by step. Each step has a verification check, so treat it like a guided practical rather than a worksheet.

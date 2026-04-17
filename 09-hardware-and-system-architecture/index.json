@@ -1,14 +1,26 @@
 {
   "title": "Lab 09: Hardware and System Architecture",
-  "description": "Inspect CPU, memory, kernel, modules, and devices from the command line.",
+  "description": "Turn Linux system information into a concise machine inventory.",
   "details": {
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "background": "setup.sh"
     },
     "steps": [
       {
-        "title": "Hands-on Tasks",
-        "text": "lab.md"
+        "title": "Step 1: Capture Kernel and Architecture",
+        "text": "step1/text.md",
+        "verify": "step1/verify.sh"
+      },
+      {
+        "title": "Step 2: Measure Memory",
+        "text": "step2/text.md",
+        "verify": "step2/verify.sh"
+      },
+      {
+        "title": "Step 3: Build a Device Inventory",
+        "text": "step3/text.md",
+        "verify": "step3/verify.sh"
       }
     ],
     "finish": {

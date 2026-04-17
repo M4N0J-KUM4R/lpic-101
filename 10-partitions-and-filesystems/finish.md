@@ -1,5 +1,7 @@
 # Lab Complete
 
-You’ve covered the practical storage concepts behind disk prep and filesystem mounting.
+You practiced the safest and most important part of storage administration: reading the current state accurately before making changes.
 
-For LPIC-101, make sure you can read `fstab` comfortably and explain the basic mount workflow end to end.
+## Next Habit To Keep
+
+Before moving on, repeat the commands from memory once. Story mode works best when you combine guided practice with recall.

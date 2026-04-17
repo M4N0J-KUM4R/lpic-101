@@ -1,5 +1,7 @@
 # Lab Complete
 
-You now have the core Unix text-toolkit for LPIC-101.
+You transformed raw text into targeted reports. That pipeline mindset is central to Linux administration and to LPIC-101 exam tasks.
 
-These commands become much more powerful when you start combining them with logs, config files, and package queries.
+## Next Habit To Keep
+
+Before moving on, repeat the commands from memory once. Story mode works best when you combine guided practice with recall.

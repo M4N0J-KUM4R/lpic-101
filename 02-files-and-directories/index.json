@@ -1,14 +1,26 @@
 {
   "title": "Lab 02: Files and Directories",
-  "description": "Create, copy, move, delete, inspect, and search for files and directories.",
+  "description": "Build and reorganize a small project tree while practicing creation, movement, and linking.",
   "details": {
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "background": "setup.sh"
     },
     "steps": [
       {
-        "title": "Hands-on Tasks",
-        "text": "lab.md"
+        "title": "Step 1: Build the Project Layout",
+        "text": "step1/text.md",
+        "verify": "step1/verify.sh"
+      },
+      {
+        "title": "Step 2: Move, Rename, and Link",
+        "text": "step2/text.md",
+        "verify": "step2/verify.sh"
+      },
+      {
+        "title": "Step 3: Inspect and Report",
+        "text": "step3/text.md",
+        "verify": "step3/verify.sh"
       }
     ],
     "finish": {

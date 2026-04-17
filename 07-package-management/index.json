@@ -1,14 +1,26 @@
 {
   "title": "Lab 07: Package Management",
-  "description": "Practice common package-management workflows on Debian-style and RPM-style systems.",
+  "description": "Learn how to inspect a system's package tooling and query the package database safely.",
   "details": {
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "background": "setup.sh"
     },
     "steps": [
       {
-        "title": "Hands-on Tasks",
-        "text": "lab.md"
+        "title": "Step 1: Identify the Package Family",
+        "text": "step1/text.md",
+        "verify": "step1/verify.sh"
+      },
+      {
+        "title": "Step 2: Find the Package That Owns a File",
+        "text": "step2/text.md",
+        "verify": "step2/verify.sh"
+      },
+      {
+        "title": "Step 3: Count Installed Packages",
+        "text": "step3/text.md",
+        "verify": "step3/verify.sh"
       }
     ],
     "finish": {

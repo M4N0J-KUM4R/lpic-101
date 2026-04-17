@@ -1,14 +1,26 @@
 {
   "title": "Lab 10: Partitions and Filesystems",
-  "description": "Explore partitioning, filesystem creation, mounting, and persistent mount configuration.",
+  "description": "Study real mount and filesystem information without taking unnecessary risks on the running system.",
   "details": {
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "background": "setup.sh"
     },
     "steps": [
       {
-        "title": "Hands-on Tasks",
-        "text": "lab.md"
+        "title": "Step 1: Inspect Devices and Filesystems",
+        "text": "step1/text.md",
+        "verify": "step1/verify.sh"
+      },
+      {
+        "title": "Step 2: Identify the Root Filesystem",
+        "text": "step2/text.md",
+        "verify": "step2/verify.sh"
+      },
+      {
+        "title": "Step 3: Decode fstab",
+        "text": "step3/text.md",
+        "verify": "step3/verify.sh"
       }
     ],
     "finish": {

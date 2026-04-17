@@ -1,9 +1,11 @@
-# Swap and Filesystem Maintenance
+# Lab 11: Swap and Filesystem Maintenance
 
-## Objective
+## Story Mode
 
-Practice the monitoring and maintenance tasks that keep Linux filesystems healthy.
+A host is reported as 'low on resources.' Your job is to inspect disk usage, link behavior, and swap state before anyone guesses at the cause.
 
-## Scenario
+## Workspace
 
-A host is low on space and you need to inspect disk usage, links, and swap configuration.
+Use `/tmp/lpic101/lab11` as your working area for this lab. The setup script prepares it for you.
+
+Move step by step. Each step has a verification check, so treat it like a guided practical rather than a worksheet.

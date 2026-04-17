@@ -1,9 +1,11 @@
-# Hardware and System Architecture
+# Lab 09: Hardware and System Architecture
 
-## Objective
+## Story Mode
 
-Learn how Linux exposes hardware, kernel, and architecture details through standard commands.
+Before installing software or planning storage, the team wants a quick inventory of the machine's kernel, architecture, memory, and block devices.
 
-## Scenario
+## Workspace
 
-You’ve been asked to inventory the machine before installing software and planning storage changes.
+Use `/tmp/lpic101/lab09` as your working area for this lab. The setup script prepares it for you.
+
+Move step by step. Each step has a verification check, so treat it like a guided practical rather than a worksheet.

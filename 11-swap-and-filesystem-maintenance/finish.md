@@ -1,5 +1,7 @@
 # Lab Complete
 
-You’ve practiced the inspection tools used when a system is low on disk space or memory.
+You approached a maintenance problem the right way: inspect space, inspect inodes, compare links, and check swap before trying to fix anything.
 
-This lab also reinforces links, swap, and maintenance concepts that are easy to overlook during exam prep.
+## Next Habit To Keep
+
+Before moving on, repeat the commands from memory once. Story mode works best when you combine guided practice with recall.

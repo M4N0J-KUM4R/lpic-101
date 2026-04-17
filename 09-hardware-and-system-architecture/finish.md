@@ -1,5 +1,7 @@
 # Lab Complete
 
-You now know where to look for architecture, memory, storage, and kernel details on a Linux host.
+You turned machine details into a usable inventory. That skill pays off every time you need to compare hosts or validate assumptions before making changes.
 
-Those inspection habits are especially useful before boot, storage, and package tasks.
+## Next Habit To Keep
+
+Before moving on, repeat the commands from memory once. Story mode works best when you combine guided practice with recall.
