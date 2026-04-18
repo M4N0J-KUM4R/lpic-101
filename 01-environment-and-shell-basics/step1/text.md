@@ -75,7 +75,13 @@ You will use this often for logs, timestamps, and incident reports.
 2. Run `id` and inspect your UID, GID, and groups.
 3. Run `echo $SHELL` to check your login shell.
 4. Run `date` to capture the current system date and time.
-5. Write the results into `/tmp/lpic101/lab01/answers/session.txt` using this format:
+5. Run the company helper script below to generate the identity handoff automatically:
+
+```bash
+/tmp/lpic101/lab01/bin/capture-session.sh
+```
+
+6. Review the generated file at `/tmp/lpic101/lab01/answers/session.txt`. It will be written automatically in this format:
 
 ```text
 user=<your-username>
